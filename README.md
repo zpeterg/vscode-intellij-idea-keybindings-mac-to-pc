@@ -1,4 +1,6 @@
-# IntelliJ IDEA Key Bindings for Visual Studio Code
+# IntelliJ IDEA Key Bindings for Visual Studio Code that transforms Mac-keybindings to PC-keybindings
+
+This is a fork of kasecato's popular library. This simply re-maps a Mac to act like a PC (switching CTRL and CMD keys). It leaves PC alone.
 
 [![Build Status](https://travis-ci.org/kasecato/vscode-intellij-idea-keybindings.svg?branch=master)](https://travis-ci.org/kasecato/vscode-intellij-idea-keybindings) [![License: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE.md) [![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/k--kato.intellij-idea-keybindings.svg)](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) [![Install](https://vsmarketplacebadge.apphb.com/installs-short/k--kato.intellij-idea-keybindings.svg)](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
 
